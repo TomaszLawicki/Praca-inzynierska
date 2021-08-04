@@ -1,0 +1,15 @@
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\bin\Debug\netstandard2.0\MonitorZasobow.deps.json
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\bin\Debug\netstandard2.0\MonitorZasobow.dll
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\bin\Debug\netstandard2.0\ref\MonitorZasobow.dll
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\bin\Debug\netstandard2.0\MonitorZasobow.pdb
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\obj\Debug\netstandard2.0\MonitorZasobow.csprojAssemblyReference.cache
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\obj\Debug\netstandard2.0\StartPage.xaml.g.cs
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\obj\Debug\netstandard2.0\MonitorZasobow.AssemblyInfoInputs.cache
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\obj\Debug\netstandard2.0\MonitorZasobow.AssemblyInfo.cs
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\obj\Debug\netstandard2.0\MonitorZasobow.csproj.CoreCompileInputs.cache
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\obj\Debug\netstandard2.0\MonitorZasobow.dll
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\obj\Debug\netstandard2.0\ref\MonitorZasobow.dll
+C:\Users\caval\source\repos\MonitorZasobow\MonitorZasobow\MonitorZasobow\obj\Debug\netstandard2.0\MonitorZasobow.pdb

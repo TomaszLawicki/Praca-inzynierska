@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MonitorZasobow.MainPage" BackgroundColor="Black">
+
+    <StackLayout>
+        <Label  HorizontalTextAlignment="Center"  FontSize="35" TextColor="White" Text="Wpisz adres IP:" Margin="0,40,0,0" />
+        <Label x:Name="ip" HorizontalTextAlignment="Center"  FontSize="35" TextColor="White" Text="Adres IP" Margin="0,10,0,0" />
+        <Label  HorizontalTextAlignment="Center"  FontSize="35" TextColor="White" Text="W zakładce Łączenie na swoim komputerze i naciśnij start" Margin="0,10,0,0" />
+        <Button x:Name="Start" Text="Start" Clicked="Start_Clicked" Padding="20"  TextColor="Black" FontSize="26" BackgroundColor="#EE0E16" Margin="0,40,0,0"/>
+    </StackLayout>
+
+</ContentPage>

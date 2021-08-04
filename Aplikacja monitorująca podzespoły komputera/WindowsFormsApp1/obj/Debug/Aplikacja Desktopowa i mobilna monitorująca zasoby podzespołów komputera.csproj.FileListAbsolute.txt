@@ -1,0 +1,69 @@
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csprojAssemblyReference.cache
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.GenerateResource.cache
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.CoreCompileInputs.cache
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.CopyComplete
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Sockets.Plugin.Abstractions.dll
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Sockets.Plugin.dll
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Sockets.Plugin.pdb
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Sockets.Plugin.xml
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Sockets.Plugin.Abstractions.pdb
+F:\pulpit\wazne\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Sockets.Plugin.Abstractions.xml
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csprojAssemblyReference.cache
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacjamonitorująca.Form1.resources
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.GenerateResource.cache
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.CoreCompileInputs.cache
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.Abstractions.dll
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.dll
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.pdb
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.xml
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.Abstractions.pdb
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.Abstractions.xml
+F:\pulpit\wazne\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.CopyComplete
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.Abstractions.dll
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.dll
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.pdb
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.xml
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.Abstractions.pdb
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.Abstractions.xml
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csprojAssemblyReference.cache
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacjamonitorująca.Form1.resources
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.GenerateResource.cache
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.CoreCompileInputs.cache
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.CopyComplete
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\caval\Desktop\Praca Inżynierska\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.AssemblyReference.cache
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.Abstractions.dll
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.dll
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.pdb
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.xml
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.Abstractions.pdb
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\bin\Debug\Sockets.Plugin.Abstractions.xml
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.AssemblyReference.cache
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacjamonitorująca.Form1.resources
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.GenerateResource.cache
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.CoreCompileInputs.cache
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\Aplikacja Desktopowa i mobilna monitorująca zasoby podzespołów komputera.csproj.CopyComplete
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\caval\Desktop\Aplikacja monitorująca podzespoły komputera\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
